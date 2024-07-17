@@ -1,0 +1,7 @@
+{
+    "seed_phrase_hd_path": "m/44'/397'/0'",
+    "master_seed_phrase": "cliff canal trouble cream ride weird bitter slush tree crystal reward supreme",
+    "implicit_account_id": "f8ddd54bae355c6ec2d3a66d45022eb9ebe997b813a69b76e3880da8778f0aae",
+    "public_key": "ed25519:HkUJNKABQt998YyAMaGpgVDWC4aBNA4qqUwoL12in8qT",
+    "private_key": "ed25519:4XE6fYp7zzkQDuaS6h46ovLiSLb79CVULrDD8KtifdJvduHCR4rRSbnGUBTUKVypxXCCg5fNAFMEUYiaWxm9h3Do"
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "account_id": "near",
+    "used_as_signer": true
+  },
+  {
+    "account_id": "testpure.near",
+    "used_as_signer": true
+  },
+  {
+    "account_id": "test.near",
+    "used_as_signer": true
+  }
+]
